@@ -6,7 +6,7 @@ function deleteOneWebsite() {
 
 	let websiteSettings = document.querySelectorAll(".no-gutters");
 
-	websiteSettings[10].click();
+	websiteSettings[10].click(); // kolejność przyciski po "więcej opcji"
 
 	setTimeout(() => {
 		let parentField = document.querySelector(".contextBoxPropertyWrapper");
@@ -30,10 +30,10 @@ function deleteOneWebsite() {
 			console.log(deleteSite);
 
 			deleteSite.click();
-		}, "250");
-	}, "2000");
+		}, "250"); // czas po wpisaniu hasla, przed naciśnięciem usuń
+	}, "2000"); // czas po naciśnięciu "usuń stronę" przed załadowaniem popupu do wpisania hasla
 }
 
 deleteOneWebsite();
 
-setInterval(deleteOneWebsite, 5000);
+setInterval(deleteOneWebsite, 5000); // czas między wykonaniami całej operacji
