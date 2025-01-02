@@ -4,7 +4,7 @@
 
 ## Jak użyć:
 
-- wejdź do panelu webmastera i dostosuj widok tak aby były na liście strony, które chcesz usunąć, najlepiej wybrać Moje strony i od najstarszych, tak aby była pierwsza była widoczna strona do usunięcia a dokładniej przycisk *więcej opcji*
+- wejdź do panelu webmastera i dostosuj widok tak aby były na liście strony, które chcesz usunąć, najlepiej wybrać Moje strony i od najstarszych, tak aby pierwsza była widoczna strona przeznaczona do usunięcia a dokładniej przycisk *więcej opcji*
 
   ![image](https://github.com/user-attachments/assets/a485ae14-7dfc-4ead-ba14-f7f2fd56edb3)
 
