@@ -1,8 +1,8 @@
 # usuwaniestronWW
 
-##automat do usuwania stron z konta WW
+## automat do usuwania stron z konta WW
 
-##Jak użyć:
+## Jak użyć:
 
 - wejdź do panelu webmastera i dostosuj widok tak aby były na liście strony, które chcesz usunąć, najlepiej wybrać Moje strony i od najstarszych, tak aby była pierwsza była widoczna strona do usunięcia a dokładniej przycisk *więcej opcji*
 
